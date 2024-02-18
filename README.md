@@ -1,1 +1,1 @@
-# Getting Started with LangChain
+# Generative-AI-with-LangChain
